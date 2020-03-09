@@ -2,7 +2,7 @@
 
 include "nyx/SplitSubtitle.php";
 
-use nyx\SplitSubtitle as ExplodeSubtitle;
+use nyx\SplitSubtitle as SplitSubtitle;
 
 $explodeSubtitle = new SplitSubtitle("Friends.S01E01.en.srt");
 $percentTotal = 0;
